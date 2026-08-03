@@ -1,4 +1,4 @@
 This is a Face Recognition based attendence system using simple framework of OpenCV and Deep Face
 
 the attendance is stored in excel file
-This the simple representation of face recognition
+This the simple representation of face recognition.
