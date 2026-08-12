@@ -2,4 +2,4 @@ This is a Face Recognition based attendence system using simple framework of Ope
 
 the attendance is stored in excel file
 This the simple representation of face recognition.
-uses CV
+
